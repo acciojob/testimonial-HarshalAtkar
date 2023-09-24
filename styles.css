@@ -5,6 +5,8 @@
 .second{
 	border:1px solid black;
 	background-color:white;
-	display:flex;
-	justify-content:space-between;
+	padding:20px;
+}
+.writer{
+	text-align:right;
 }
